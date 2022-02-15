@@ -1,0 +1,15 @@
+F:\deneme1\if else\if-else\bin\Debug\net6.0\if-else.exe
+F:\deneme1\if else\if-else\bin\Debug\net6.0\if-else.deps.json
+F:\deneme1\if else\if-else\bin\Debug\net6.0\if-else.runtimeconfig.json
+F:\deneme1\if else\if-else\bin\Debug\net6.0\if-else.dll
+F:\deneme1\if else\if-else\bin\Debug\net6.0\ref\if-else.dll
+F:\deneme1\if else\if-else\bin\Debug\net6.0\if-else.pdb
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.csproj.AssemblyReference.cache
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.AssemblyInfoInputs.cache
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.AssemblyInfo.cs
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.csproj.CoreCompileInputs.cache
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.dll
+F:\deneme1\if else\if-else\obj\Debug\net6.0\ref\if-else.dll
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.pdb
+F:\deneme1\if else\if-else\obj\Debug\net6.0\if-else.genruntimeconfig.cache
